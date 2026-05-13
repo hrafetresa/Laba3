@@ -7,7 +7,7 @@ namespace GraphLibrary
 {
     public class Graph : IComparable<Graph>
     {
-        protected List<List<int>> adjacencyList; // исходящие соседи для каждой вершины
+        protected List<List<int>> adjacencyList; 
         public int VertexCount => adjacencyList.Count;
 
         public Graph()

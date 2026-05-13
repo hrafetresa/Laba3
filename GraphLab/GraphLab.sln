@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36804.6 d17.14
+VisualStudioVersion = 17.14.36804.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphLibrary", "..\GraphLibrary\GraphLibrary.csproj", "{1DC6C4AF-5C6C-4820-B2BB-8473F89519AE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphLibraryTests", "..\GraphLibraryTests\GraphLibraryTests.csproj", "{382FAA68-DB9F-4FF1-B6EA-6ABECE7A2F0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphApp", "..\GraphApp\GraphApp.csproj", "{BDA8BE46-2531-48FE-BCBA-956BE55BE5D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphApp", "GraphApp\GraphApp.csproj", "{157F45AC-7DFD-4647-B9A8-5C53C0019514}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{382FAA68-DB9F-4FF1-B6EA-6ABECE7A2F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{382FAA68-DB9F-4FF1-B6EA-6ABECE7A2F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{382FAA68-DB9F-4FF1-B6EA-6ABECE7A2F0F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BDA8BE46-2531-48FE-BCBA-956BE55BE5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BDA8BE46-2531-48FE-BCBA-956BE55BE5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BDA8BE46-2531-48FE-BCBA-956BE55BE5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BDA8BE46-2531-48FE-BCBA-956BE55BE5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{157F45AC-7DFD-4647-B9A8-5C53C0019514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157F45AC-7DFD-4647-B9A8-5C53C0019514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157F45AC-7DFD-4647-B9A8-5C53C0019514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157F45AC-7DFD-4647-B9A8-5C53C0019514}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

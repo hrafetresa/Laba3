@@ -20,7 +20,10 @@ namespace GraphApp
         private Button btnEquals, btnNotEquals, btnSort, btnDelete;
         private Label lblResult;
 
-        public Form1() => InitializeComponent();
+        public Form1() 
+        { 
+            InitializeComponent(); 
+        }
 
         private void InitializeComponent()
         {
