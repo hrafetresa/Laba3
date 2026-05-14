@@ -66,7 +66,7 @@
             this.txtInput.Multiline = true;
             this.txtInput.Name = "txtInput";
             this.txtInput.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.txtInput.Size = new System.Drawing.Size(148, 63);
+            this.txtInput.Size = new System.Drawing.Size(160, 63);
             this.txtInput.TabIndex = 1;
             // 
             // btnCreate
@@ -85,7 +85,7 @@
             this.lstGraphs.Location = new System.Drawing.Point(36, 177);
             this.lstGraphs.Name = "lstGraphs";
             this.lstGraphs.SelectionMode = System.Windows.Forms.SelectionMode.MultiSimple;
-            this.lstGraphs.Size = new System.Drawing.Size(223, 108);
+            this.lstGraphs.Size = new System.Drawing.Size(259, 108);
             this.lstGraphs.TabIndex = 3;
             // 
             // lblResult
@@ -97,7 +97,7 @@
             // 
             // btnConnectivity
             // 
-            this.btnConnectivity.Location = new System.Drawing.Point(278, 184);
+            this.btnConnectivity.Location = new System.Drawing.Point(318, 183);
             this.btnConnectivity.Name = "btnConnectivity";
             this.btnConnectivity.Size = new System.Drawing.Size(75, 23);
             this.btnConnectivity.TabIndex = 5;
@@ -107,7 +107,7 @@
             // 
             // btnComplete
             // 
-            this.btnComplete.Location = new System.Drawing.Point(360, 184);
+            this.btnComplete.Location = new System.Drawing.Point(400, 183);
             this.btnComplete.Name = "btnComplete";
             this.btnComplete.Size = new System.Drawing.Size(75, 23);
             this.btnComplete.TabIndex = 5;
@@ -117,7 +117,7 @@
             // 
             // btnBipartite
             // 
-            this.btnBipartite.Location = new System.Drawing.Point(441, 184);
+            this.btnBipartite.Location = new System.Drawing.Point(481, 183);
             this.btnBipartite.Name = "btnBipartite";
             this.btnBipartite.Size = new System.Drawing.Size(95, 23);
             this.btnBipartite.TabIndex = 5;
@@ -127,7 +127,7 @@
             // 
             // btnSources
             // 
-            this.btnSources.Location = new System.Drawing.Point(278, 213);
+            this.btnSources.Location = new System.Drawing.Point(318, 212);
             this.btnSources.Name = "btnSources";
             this.btnSources.Size = new System.Drawing.Size(75, 23);
             this.btnSources.TabIndex = 5;
@@ -137,7 +137,7 @@
             // 
             // btnSinks
             // 
-            this.btnSinks.Location = new System.Drawing.Point(359, 213);
+            this.btnSinks.Location = new System.Drawing.Point(399, 212);
             this.btnSinks.Name = "btnSinks";
             this.btnSinks.Size = new System.Drawing.Size(75, 23);
             this.btnSinks.TabIndex = 5;
@@ -147,7 +147,7 @@
             // 
             // btnDijkstra
             // 
-            this.btnDijkstra.Location = new System.Drawing.Point(568, 184);
+            this.btnDijkstra.Location = new System.Drawing.Point(608, 183);
             this.btnDijkstra.Name = "btnDijkstra";
             this.btnDijkstra.Size = new System.Drawing.Size(75, 23);
             this.btnDijkstra.TabIndex = 5;
@@ -157,7 +157,7 @@
             // 
             // btnPrim
             // 
-            this.btnPrim.Location = new System.Drawing.Point(568, 218);
+            this.btnPrim.Location = new System.Drawing.Point(608, 217);
             this.btnPrim.Name = "btnPrim";
             this.btnPrim.Size = new System.Drawing.Size(75, 23);
             this.btnPrim.TabIndex = 5;
@@ -167,7 +167,7 @@
             // 
             // btnKruskal
             // 
-            this.btnKruskal.Location = new System.Drawing.Point(568, 252);
+            this.btnKruskal.Location = new System.Drawing.Point(608, 251);
             this.btnKruskal.Name = "btnKruskal";
             this.btnKruskal.Size = new System.Drawing.Size(75, 23);
             this.btnKruskal.TabIndex = 5;
@@ -177,7 +177,7 @@
             // 
             // btnNotEquals
             // 
-            this.btnNotEquals.Location = new System.Drawing.Point(360, 252);
+            this.btnNotEquals.Location = new System.Drawing.Point(400, 251);
             this.btnNotEquals.Name = "btnNotEquals";
             this.btnNotEquals.Size = new System.Drawing.Size(75, 23);
             this.btnNotEquals.TabIndex = 5;
@@ -187,7 +187,7 @@
             // 
             // btnSort
             // 
-            this.btnSort.Location = new System.Drawing.Point(65, 291);
+            this.btnSort.Location = new System.Drawing.Point(78, 294);
             this.btnSort.Name = "btnSort";
             this.btnSort.Size = new System.Drawing.Size(87, 23);
             this.btnSort.TabIndex = 5;
@@ -197,7 +197,7 @@
             // 
             // btnComplement
             // 
-            this.btnComplement.Location = new System.Drawing.Point(441, 213);
+            this.btnComplement.Location = new System.Drawing.Point(481, 212);
             this.btnComplement.Name = "btnComplement";
             this.btnComplement.Size = new System.Drawing.Size(86, 23);
             this.btnComplement.TabIndex = 5;
@@ -207,7 +207,7 @@
             // 
             // btnEquals
             // 
-            this.btnEquals.Location = new System.Drawing.Point(278, 252);
+            this.btnEquals.Location = new System.Drawing.Point(318, 251);
             this.btnEquals.Name = "btnEquals";
             this.btnEquals.Size = new System.Drawing.Size(75, 23);
             this.btnEquals.TabIndex = 5;
@@ -217,7 +217,7 @@
             // 
             // btnDelete
             // 
-            this.btnDelete.Location = new System.Drawing.Point(158, 291);
+            this.btnDelete.Location = new System.Drawing.Point(171, 294);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(75, 23);
             this.btnDelete.TabIndex = 6;
@@ -229,7 +229,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(669, 369);
+            this.ClientSize = new System.Drawing.Size(703, 369);
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.btnEquals);
             this.Controls.Add(this.btnComplement);
