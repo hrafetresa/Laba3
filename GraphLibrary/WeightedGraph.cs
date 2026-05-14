@@ -7,7 +7,7 @@ namespace GraphLibrary
 {
     public class WeightedGraph : Graph
     {
-        private List<Dictionary<int, double>> weights; // для каждой вершины словарь сосед->вес
+        private List<Dictionary<int, double>> weights; 
 
         public WeightedGraph() : base() => weights = new List<Dictionary<int, double>>();
         public WeightedGraph(int vertices) : base(vertices)
